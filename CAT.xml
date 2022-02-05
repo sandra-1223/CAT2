@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CHRIST>
+	<COMPUTER_SCIENCE>
+		<STU-NAME>Sandra Sony</STU-NAME>
+		<STU-UNIVERSITY>CHRIST University</STU-UNIVERSITY>
+		<STU-PHONE>9620608869</STU-PHONE>
+		<STU-EMAIL>sandrasony@christuniversity.in</STU-EMAIL>
+	</COMPUTER_SCIENCE>
+    <COMPUTER_SCIENCE>
+		<STU-NAME>Maria David</STU-NAME>
+		<STU-UNIVERSITY>Loyola College</STU-UNIVERSITY>
+		<STU-PHONE>9207571748</STU-PHONE>
+		<STU-EMAIL>mariadavid96@gmail.com</STU-EMAIL>
+	</COMPUTER_SCIENCE>
+    <COMPUTER_SCIENCE>
+		<STU-NAME>Jiya Susan</STU-NAME>
+		<STU-UNIVERSITY>Kristu Jayanthi College</STU-UNIVERSITY>
+		<STU-PHONE>9207171766</STU-PHONE>
+		<STU-EMAIL>jiya3susan@gmail.com</STU-EMAIL>
+	</COMPUTER_SCIENCE>
+</CHRIST>
+
+ 
